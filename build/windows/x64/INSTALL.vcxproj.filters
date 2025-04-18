@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\New_Projects_Flutter\AES_Encryption\secure_mindes\build\windows\x64\CMakeFiles\7aad325d1f2e0efa9014e3c33ff242d0\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BF3D8DC0-3C26-343B-AD8C-42E8B83B4B82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
